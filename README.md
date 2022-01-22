@@ -1,4 +1,4 @@
-# kotlin-mvi-awesome
+# AWESOME KOTLIN MVI
 
 ## What is MVI?
 
