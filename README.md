@@ -1,4 +1,4 @@
-# AWESOME KOTLIN MVI
+# Kotlin MVI Awesome
 
 ![](resource/Kotlin-MVI-Awesome.png)
 
