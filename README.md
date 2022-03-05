@@ -18,4 +18,5 @@ A curated list of awesome Kotlin MVI libraries, projects, articles and resources
 
 ## App Projects
 
-- [PokemonLibraryWithJetpackComposeAndOrbitMVI](https://github.com/kaleidot725/PokemonLibraryWIthJetpackComposeAndOrbitMVI)
+- [Jetpack-Compose-MVI-Demo](https://github.com/RivuChk/Jetpack-Compose-MVI-Demo)
+- [Jetpack-Compose-Orbit-MVI-Demo](https://github.com/kaleidot725/Jetpack-Compose-Orbit-MVI-Demo)
