@@ -18,5 +18,8 @@ A curated list of awesome Kotlin MVI libraries, projects, articles and resources
 
 ## App Projects
 
+### Jetpack Compose
+
 - [Jetpack-Compose-MVI-Demo](https://github.com/RivuChk/Jetpack-Compose-MVI-Demo)
-- [Jetpack-Compose-Orbit-MVI-Demo](https://github.com/kaleidot725/Jetpack-Compose-Orbit-MVI-Demo)
+- [Orbit MVI | Jetpack-Compose-Orbit-MVI-Demo](https://github.com/kaleidot725/Jetpack-Compose-Orbit-MVI-Demo)
+- [Orbit MVI | EmoMemo](https://github.com/kaleidot725/EmoMemo)
